@@ -5,8 +5,10 @@ Hello! In this folder i will document everything i do every week.
 
 # The Start - First Week
 
-In my first week i focused learning the basics of Unity, following the official Unity's tutorial. Im still not done learning them yet, since the "First Week" actually started from Wednesday, so counting today it has been only 3 days!
+In my first week i focused learning the basics of Unity, following the official Unity's tutorial. Im still not done learning them yet, since the "First Week" actually started from Wednesday, 
+so counting today it has been only 3 days!
 What i learnt in this week is:
+
 - How to move in Unity's 3D space
 - How to add new GameObjects and how to shape the how i want
 - Properties, like: Position, rotation, material
@@ -18,3 +20,23 @@ For the next week my objectives are:
 - Start playing around in Unity and being able to create simple things on my own
 
 This is all for week one, see you next week!!
+
+
+# Second week 
+
+The end of the second week came, and I completed Unity's Essential tutorial, so one of the goals of the last week is reached. I even made a script that makes the camera follow the player, i'm sure it works on 2D since 
+i made it for that, but i didn't test if it works on 3D too. Now a quick summary of what i've done in this week:
+
+- How to add audio, 2D and 3D one, and how to adjust their properties
+- Started getting into coding with Unity's tutorial assistance, and i made a movement script and an object rotate.
+- Making a door open when the player is near
+- Built a room in 2D, and added animated sprites
+- Made a script, attached to the camera, that makes it follow the player.
+- Made a main menu where you can access all the experience from it and play them
+
+I'm gonna publish that project and the scripts i made soon.
+Objectives for the next week:
+- Make a movement script all by myself
+- Working with UI and starting to make an inventory system.
+
+This is all for week two, see you next one!!
