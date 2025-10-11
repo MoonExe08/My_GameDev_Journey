@@ -40,3 +40,20 @@ Objectives for the next week:
 - Working with UI and starting to make an inventory system.
 
 This is all for week two, see you next one!!
+
+
+# Third week
+
+Here it is week three's documentation, this week i managed to make a movement script for a ball, i used the AddTorque method and i added the possibility to switch to the AddForce method movement system with a simple click,
+I made a camera system pretty much similar to the one i already made previously, but now its for 3D. I worked a bit on UI and i made a button that when pressed it shows on screen a big panel, just like an inventory, then i
+used the UI grid to place some other square panels inside the "Inventory panel". So i reached the last week's goals. After that i tried to make a grappling system but it didn't go as expected and i badly failed in making
+it.. Failed as another thing i tried to make this week, i tried to modify the camera script so that when you moved your mouse the camera would rotate, the script was working, the camera was rotating, but the movement
+COMPLETELY BROKE, the ball started going in random direction and it was not stopping... I came to the conclusion to maybe start making other simpler things and then go back to those things.
+
+Quick summary of what i did this week:
+- Made a movement script for a ball with switchable movement systems (Torque and Force)
+- Camera script that follows the ball and always look towards it
+- Inventory system
+- Failed in making a grappling system and modifying the camera script to make it rotate when you move your mouse.
+
+that's all for this week! See you next one!!
