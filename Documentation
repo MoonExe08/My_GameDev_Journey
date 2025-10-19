@@ -57,3 +57,16 @@ Quick summary of what i did this week:
 - Failed in making a grappling system and modifying the camera script to make it rotate when you move your mouse.
 
 that's all for this week! See you next one!!
+
+
+# Fourth week
+
+Week 4 is here!! This week i unfortunately didn't do much, i have to admit it, i didn't have much time, i ran out of ideas and i got a bit lazy... But, i did something, i scripted a jump ability for the ball (the player),
+i added a physical material to it too and i made the ball bouncy so that it would land smoothly and i added a check, if the ball is not touching colliding with the ground it can't jump, so that you cannot jump while in air.
+That's all i did this week, quick summary:
+
+- Made the jump ability for the ball
+- Made the ball bouncy
+- Added a check so that you can't jump while in air
+
+For the next week i hope to get some ideas and i will probably search online something to make (something beginner's friendly of course). That's all for week 4, See you next week!!!
