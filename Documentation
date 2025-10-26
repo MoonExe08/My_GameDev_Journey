@@ -70,3 +70,21 @@ That's all i did this week, quick summary:
 - Added a check so that you can't jump while in air
 
 For the next week i hope to get some ideas and i will probably search online something to make (something beginner's friendly of course). That's all for week 4, See you next week!!!
+
+
+# Fifth week
+
+Welcome backkk! this week honestly flew, it feels like week 4 was yesterday, anyway, in this week i decided to create a new scene in my project called "Ball adventure", in this scene im just reviewing what i did in the
+previous weeks (movement system, camera system, jump ability), so that i can understand well how all this stuff works. Besides reviewing what i did, i learnt about raycasts, i knew what were they for, but i had no idea
+how to use them in Unity and C#, so i just searched up the Unity raycast's documentation and i managed to create a working one (I used it for checking if the player was in the ground or not, for the jump), They are pretty
+cool and kinda easy to understand and use them. Now a quick sumamry of what i did as usual:
+
+- Reviewed and re-made the movement system, camera system and the jump ability
+- Learnt about raycasting and used them to check if the player is on the ground or not
+
+I didn't set goals for a while, but the are back!! My goals for the next week are:
+
+- Letting the player move the camera with the mouse (Yes, i'll try again.)
+- Making a map for the "Ball adventure" scene
+
+That's all for week 5!! See you next week!
