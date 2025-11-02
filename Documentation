@@ -88,3 +88,17 @@ I didn't set goals for a while, but the are back!! My goals for the next week ar
 - Making a map for the "Ball adventure" scene
 
 That's all for week 5!! See you next week!
+
+
+# Sixth week
+
+Welcome to the sixth week's documentation! This week i wish i could have done more things, but because of school and halloween i didn't have much time. This week i modified the camera script so that when you press a button
+(for now i "K") you switch to "free mode" that lets you move the camera with your mouse; at first i thougth i had to use quaternions, so i tried to study them a bit, what they are, some graphic representation of them
+and how to use them on Unity, but then while studying them i found some methods in Unity's documentation that made me sure there was another way to do what i wanted, so i searched it up on youtube and i found exactly
+what i needed, it was pretty simple and it works good, but in the future i want to change it so that the player moves in the direction of where the camera is looking. That's all i did this week unfortunately, i will focus
+on building some levels/map next week. Now the goals for next week:
+
+- Building at least 5 different levels
+- Making a dash script
+
+That's all for this week, see you next one!!
