@@ -114,3 +114,7 @@ It has been 8 months since i last touched this repository. All this time i got p
 But, i'm back again, devoted to trying to reach my goals and dreams. I started working in Unity again, this time on 2D. For now i made a simple Movement System with
 jump, dash, coyote timer and jump buffering to help the player a little bit. I will post the code in the Unity folder. Since it's still wednesday i will not set goals
 for the next week yet, i'll do that in saturday/sunday as always. See you in a few days!!
+
+# Eighth week (second half)
+
+The second half of the eighth week it's here! On these few days I focused making a system that procedurally generate platforms that you can jump on. To achieve this I used Unity's ScriptableObjects to manage the data that all platforms to generate shares and a MonoBehaviour script attached to an empty GameObject to manage the logic of the platforms generation. The goal for the next week is improving the design of the game.
