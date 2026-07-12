@@ -3,7 +3,7 @@
 Hello! In this folder i will document everything i do every week. 
 
 
-# The Start - First Week
+# The Start - Week 1
 
 In my first week i focused learning the basics of Unity, following the official Unity's tutorial. Im still not done learning them yet, since the "First Week" actually started from Wednesday, 
 so counting today it has been only 3 days!
@@ -22,7 +22,7 @@ For the next week my objectives are:
 This is all for week one, see you next week!!
 
 
-# Second week 
+# Week 2
 
 The end of the second week came, and I completed Unity's Essential tutorial, so one of the goals of the last week is reached. I even made a script that makes the camera follow the player, i'm sure it works on 2D since 
 i made it for that, but i didn't test if it works on 3D too. Now a quick summary of what i've done in this week:
@@ -42,7 +42,7 @@ Objectives for the next week:
 This is all for week two, see you next one!!
 
 
-# Third week
+# Week 3
 
 Here it is week three's documentation, this week i managed to make a movement script for a ball, i used the AddTorque method and i added the possibility to switch to the AddForce method movement system with a simple click,
 I made a camera system pretty much similar to the one i already made previously, but now its for 3D. I worked a bit on UI and i made a button that when pressed it shows on screen a big panel, just like an inventory, then i
@@ -59,7 +59,7 @@ Quick summary of what i did this week:
 that's all for this week! See you next one!!
 
 
-# Fourth week
+# Week 4
 
 Week 4 is here!! This week i unfortunately didn't do much, i have to admit it, i didn't have much time, i ran out of ideas and i got a bit lazy... But, i did something, i scripted a jump ability for the ball (the player),
 i added a physical material to it too and i made the ball bouncy so that it would land smoothly and i added a check, if the ball is not touching colliding with the ground it can't jump, so that you cannot jump while in air.
@@ -72,7 +72,7 @@ That's all i did this week, quick summary:
 For the next week i hope to get some ideas and i will probably search online something to make (something beginner's friendly of course). That's all for week 4, See you next week!!!
 
 
-# Fifth week
+# Week 5
 
 Welcome backkk! this week honestly flew, it feels like week 4 was yesterday, anyway, in this week i decided to create a new scene in my project called "Ball adventure", in this scene im just reviewing what i did in the
 previous weeks (movement system, camera system, jump ability), so that i can understand well how all this stuff works. Besides reviewing what i did, i learnt about raycasts, i knew what were they for, but i had no idea
@@ -90,7 +90,7 @@ I didn't set goals for a while, but the are back!! My goals for the next week ar
 That's all for week 5!! See you next week!
 
 
-# Sixth week
+# Week 6
 
 Welcome to the sixth week's documentation! This week i wish i could have done more things, but because of school and halloween i didn't have much time. This week i modified the camera script so that when you press a button
 (for now i "K") you switch to "free mode" that lets you move the camera with your mouse; at first i thougth i had to use quaternions, so i tried to study them a bit, what they are, some graphic representation of them
@@ -104,17 +104,36 @@ on building some levels/map next week. Now the goals for next week:
 That's all for this week, see you next one!!
 
 
-# Seventh week
+# Week 7
 
 * this week i took a break from working on it, i will start again in week 8 *
 
-# Eighth week (half, comeback)
+
+# Week 8 (half, comeback)
 
 It has been 8 months since i last touched this repository. All this time i got pretty busy with school and work so i had no motivation and energy to keep this up..
 But, i'm back again, devoted to trying to reach my goals and dreams. I started working in Unity again, this time on 2D. For now i made a simple Movement System with
 jump, dash, coyote timer and jump buffering to help the player a little bit. I will post the code in the Unity folder. Since it's still wednesday i will not set goals
 for the next week yet, i'll do that in saturday/sunday as always. See you in a few days!!
 
-# Eighth week (second half)
 
-The second half of the eighth week it's here! On these few days I focused making a system that procedurally generate platforms that you can jump on. To achieve this I used Unity's ScriptableObjects to manage the data that all platforms to generate shares and a MonoBehaviour script attached to an empty GameObject to manage the logic of the platforms generation. The goal for the next week is improving the design of the game.
+# Week 8 (second half)
+
+The second half of the eighth week it's here! On these few days I focused making a system that procedurally generate platforms that you can jump on. 
+To achieve this I used Unity's ScriptableObjects to manage the data that all platforms to generate shares and a MonoBehaviour script attached to an empty GameObject to manage the logic of the platforms generation.
+The goal for the next week is improving the design of the game.
+
+
+# Week 9
+
+In this week i slightly improved the design of the game and i made some changes in the platform generation system. I drew a 2D Sprite (a little slime with some branch-like things in it's head) to use as a player and 
+a stone with some gems in it to use as a platform, i was not really happy with the last one, it kinda looks bad, but, i will for sure draw another one or more of them. As i said, i applied some changes to the platform
+generation system, because, sometimes, a platform spawned too far and you were unable to reach it. The last thing i did (and that im currently doing) is learning VFX, because i want to create a little jump effect,
+i'm watching a few tutorials but i'm having an hard time finding what i'm really searching for (I still don't want to search "Unity jump VFX tutorial", i would like to watch some tutorials and try to combine everything
+i learn to make the effect on my own). The goals for my next week are:
+
+- Making the jump VFX
+- Starting to add some challenges to the game to make it harder
+- Balance the speed, jump and dash forces.
+
+That's all for this week, see you next one!!
