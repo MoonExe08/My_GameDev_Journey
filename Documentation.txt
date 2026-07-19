@@ -137,3 +137,10 @@ i learn to make the effect on my own). The goals for my next week are:
 - Balance the speed, jump and dash forces.
 
 That's all for this week, see you next one!!
+
+# Week 10
+
+Here we are again. This week i didn't do much, i've been really busy with work.. But, i watched some youtube videos about VFXs and i learnt more things about them,
+thanks to them i even understood that for my project it's better if i make flipbooks, i still need to do more reaserches about them because i still have a few questions. For next week's goals, they are basically the same as last week's goals, but with a bigger focus on VFXs in general.
+
+As always, i'll let you know how it goes. See you in 7 days!!
