@@ -138,9 +138,24 @@ i learn to make the effect on my own). The goals for my next week are:
 
 That's all for this week, see you next one!!
 
+
 # Week 10
 
 Here we are again. This week i didn't do much, i've been really busy with work.. But, i watched some youtube videos about VFXs and i learnt more things about them,
 thanks to them i even understood that for my project it's better if i make flipbooks, i still need to do more reaserches about them because i still have a few questions. For next week's goals, they are basically the same as last week's goals, but with a bigger focus on VFXs in general.
 
 As always, i'll let you know how it goes. See you in 7 days!!
+
+
+# Week 11
+
+New week, new update!
+In this week i practiced making VFX with flipbooks, i started making the jump animation for my character and i updated the platform generation system. The VFX i made was honestly pretty bad, it should have looked like
+a red and blue lightning but in the end it looked like a cascade of water and blood...
+I had some issues with the jump animation because i didn't understand much how my character (a slime) should look like while jumping, but i searched around the internet and i kinda got the idea, i will for sure finish
+the animation soon. The changes i made to the platform generation system are:
+ - Now you spawn on top of a platform already in the void (before the spawn point was fixed in a place)
+ - Every 2 platforms that you climb the one at the bottom gets erased
+
+Now for next week's goals i'm planning to make a score system with a cool GUI, finish the jump animation and keep playing around with VFX.
+That's all for this week, i'll keep you updated!
