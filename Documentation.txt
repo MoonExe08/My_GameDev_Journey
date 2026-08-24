@@ -171,4 +171,6 @@ I said everything i had to say, so, see you next week!!
 
 # Week 13 (Another comeback?) -- Monday
 
-The reason behind the title is not my lazyness, but, i went on holidays, i travelled around France and Italy, it was pretty cool. Now i must start working again on my little project and i'll start from understanding well how to work with camera's coordinate and what the properties of the Camera Object (about its position) mean. Said so, it's time to work, i'll keep you updated!!
+The reason behind the title is not my lazyness, but, i went on holidays, i travelled around France and Italy, it was pretty cool. Now i must start working again
+on my little project and i'll start from understanding well how to work with camera's coordinate and what the properties of the Camera Object (about its position)
+mean. Said so, it's time to work, i'll keep you updated!!
