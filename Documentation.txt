@@ -163,7 +163,12 @@ That's all for this week, i'll keep you updated!
 
 # Week 12
 
- Here is week 12!! My bad for the delay, i kept saying to myself: "I will update the documentation in a moment...", but i actually never did, and that kept going for 2 days, BUT, here it is. This week i started making an "Enemy system", if i can call it like that, basically for now it just spawns an enemy, picked randomly from an array, outsides the borders of the screen; it doesn't look bad but it still has some issues, like, for some reason, the enemies spawn too close to the player, i think it's caused by some mistakes i made in calculating the position, since i'm having a quite hard time understanding the camera's position, but i'll look into that. Then, this is not about my game, but i started making my own website! 
+Here is week 12!! My bad for the delay, i kept saying to myself: "I will update the documentation in a moment...", but i actually never did, and that kept going for 2 days, BUT, here it is. This week i started making an "Enemy system", if i can call it like that, basically for now it just spawns an enemy, picked randomly from an array, outsides the borders of the screen; it doesn't look bad but it still has some issues, like, for some reason, the enemies spawn too close to the player, i think it's caused by some mistakes i made in calculating the position, since i'm having a quite hard time understanding the camera's position, but i'll look into that. Then, this is not about my game, but i started making my own website! 
 That's everything i did, next week i'll try to fix the enemy's spawn position and probably i will give them a sprite (they are just red blocks for now).
 
 I said everything i had to say, so, see you next week!!
+
+
+# Week 13 (Another comeback?) -- Monday
+
+The reason behind the title is not my lazyness, but, i went on holidays, i travelled around France and Italy, it was pretty cool. Now i must start working again on my little project and i'll start from understanding well how to work with camera's coordinate and what the properties of the Camera Object (about its position) mean. Said so, it's time to work, i'll keep you updated!!
