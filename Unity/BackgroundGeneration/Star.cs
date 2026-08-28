@@ -6,9 +6,9 @@ namespace Assets.Scripts
     public class Star
     {
         public Vector2 SpawnPoint {  get; set; }
-        public int Size { get; set; }
+        public float Size { get; set; }
 
-        public Star(Vector2 spawnPoint, int size)
+        public Star(Vector2 spawnPoint, float size)
         {
             this.SpawnPoint = spawnPoint;
             this.Size = size;
