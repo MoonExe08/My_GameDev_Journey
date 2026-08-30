@@ -178,3 +178,14 @@ I said everything i had to say, so, see you next week!!
 The reason behind the title is not my lazyness, but, i went on holidays, i travelled around France and Italy, it was pretty cool. Now i must start working again
 on my little project and i'll start from understanding well how to work with camera's coordinate and what the properties of the Camera Object (about its position)
 mean. Said so, it's time to work, i'll keep you updated!!
+
+
+# Week 13
+
+The end of the week finally came, and i happily had the chance to spend more time working on the game lately, thanks to this i managed to do the following things:
+I finished the enemy system, now they spawn in the right position outside the screen, then they "get in scene", they appear on screen and wait for a specific amount of
+time and finally they get launched towards your next calculated position; it works quite well but it still need some improvement, i already have something in mind
+that i will implement with time. The second thing i made is a procedural background generator based on the generation of chunks and the usage of seeds. I'm quite
+satisfied with that and i'm planning to add more elements in the background, now there are only stars (white squares). That's everything for this week!
+
+See you next one!
