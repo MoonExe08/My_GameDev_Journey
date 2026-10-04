@@ -189,3 +189,18 @@ that i will implement with time. The second thing i made is a procedural backgro
 satisfied with that and i'm planning to add more elements in the background, now there are only stars (white squares). That's everything for this week!
 
 See you next one!
+
+
+# Week 14 (it's been 2 months but to keep it simple it will be week 14)
+
+There haven't been updates in the past 2 months, that's a very long time, i actually didn't think it has been so much time since i updated the documentation.
+Anyway, 2 months have passed without documentation, but that doesn't mean i made no progress. I did something, and here is what:
+ - I improved the performance of the generation of platforms by a lot
+ - Made a list where you can add different platforms inside, they will be picked randomly in the platform generation
+ - Improved the design of the player's sprite and added a jumping animation
+ - Added a game score that increases every time you climb on another platform
+ - Improved the ground checking  (it had some issues detecting if you were on ground or not if you were on an edge of a platform)
+ - Added the screen wrapping functionality (for future use)
+ - Learnt more about VFX and texture shader and created a few effects with it.
+
+That's basically everything i did in the past 2 months, so, it's everything for this week. See you next week!
